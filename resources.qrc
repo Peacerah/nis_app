@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Nigeria_Immigration.ico</file>
+    <file>Nigeria_Immigration.jpg</file>
+    <file>Nigeria_Immigration.png</file>
+  </qresource>
+  <qresource prefix="ui">
+    <file>Nis_New_ui.ui</file>
+  </qresource>
+</RCC>
